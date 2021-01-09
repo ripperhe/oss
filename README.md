@@ -4,11 +4,17 @@
 ## GitHub
 
 ```
-https://raw.githubusercontent.com/ripperhe/oss/master/年/月日/资源名
+https://raw.githubusercontent.com/ripperhe/oss/master/{file}
 ```
 
 ## Gitee
 
 ```
-https://gitee.com/ripperhe/oss/raw/master/年/月日/资源名
+https://gitee.com/ripperhe/oss/raw/master/{file}
+```
+
+## jsDelivr
+
+```
+https://cdn.jsdelivr.net/gh/ripperhe/oss@master/{file}
 ```
